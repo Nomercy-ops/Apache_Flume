@@ -1,4 +1,6 @@
 # Apache_Flume
+# Version used:
+* apache-flume-1.9.0-bin
 # Storing real time user stock data from alpha vantage API to HDFS using Apache Flume
 
 * Step 1: get the api key by visiting the site https://www.alphavantage.co/support/#api-key
